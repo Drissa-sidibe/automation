@@ -1,0 +1,289 @@
+<changelist name="Recovery" date="1695735605747" recycled="false">
+  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Recovery/shelved.patch" />
+  <option name="DESCRIPTION" value="Recovery" />
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="target/classes/ActionsAndMouse/ActionVsActions.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Recovery/ActionVsActions.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="target/classes/ChekboxesAndDropdowns/AlertHandling.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Recovery/AlertHandling.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="target/test-classes/DDD/AnnotationsDemo.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Recovery/AnnotationsDemo.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="target/classes/DDDHomeWork/Constants.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Recovery/Constants.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="target/testdata/data.xlsx" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Recovery/data.xlsx" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="target/test-classes/DDD/DataProviderDemo/DataproviderDemo.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Recovery/DataproviderDemo.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="target/test-classes/DDD/DependenMethod.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Recovery/DependenMethod.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="target/classes/DDDHomeWork/DepositCalculator.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Recovery/DepositCalculator.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="target/classes/ChekboxesAndDropdowns/Dropdown.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Recovery/Dropdown.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="target/classes/StaticTableDemo/DynamicTables/DynamicTableDemo.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Recovery/DynamicTableDemo.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="target/classes/DDD/ExcelUtils.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Recovery/ExcelUtils.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="target/classes/DDDHomeWork/ExcelUtils.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Recovery/ExcelUtils1.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="target/test-classes/DDD/Listeners/ExtentReportManager.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Recovery/ExtentReportManager.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="target/screenshots/FeaturedPro.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Recovery/FeaturedPro.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="target/classes/BrokenLinks/FindingBrokenLinks.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Recovery/FindingBrokenLinks.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="target/classes/ActionsAndMouse/FindingTheLocationOfElement.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Recovery/FindingTheLocationOfElement.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="target/test-classes/DDD/FirstClass.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Recovery/FirstClass.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="target/classes/DDD/FixedDepositCalculator.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Recovery/FixedDepositCalculator.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="target/classes/Locators/FluentWaitDemo.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Recovery/FluentWaitDemo.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="target/screenshots/fullpage.png" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Recovery/fullpage.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="target/classes/DDD/gg.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Recovery/gg.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="target/test-classes/DDD/Grouping/Grouping.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Recovery/Grouping.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="target/classes/ChekboxesAndDropdowns/HandleCheckBoxes.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Recovery/HandleCheckBoxes.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="target/classes/ChekboxesAndDropdowns/HandlingFrames.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Recovery/HandlingFrames.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="target/test-classes/DDD/HardAssertions.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Recovery/HardAssertions.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="target/test-classes/DDD/HardVS_Soft_Assertions.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Recovery/HardVS_Soft_Assertions.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="target/classes/HeadLessTesting.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Recovery/HeadLessTesting.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="target/classes/ChekboxesAndDropdowns/HiddenDropdowns.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Recovery/HiddenDropdowns.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="target/test-classes/DDD/invocationtionCount/InvocationCountInParallelTest.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Recovery/InvocationCountInParallelTest.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="target/classes/ActionsAndMouse/KeyBoardActions.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Recovery/KeyBoardActions.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="target/classes/Locators/LocatorsDemo.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Recovery/LocatorsDemo.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="target/test-classes/POM/LoginPage.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Recovery/LoginPage.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="target/test-classes/POM/LoginPOMWithFactoryPageApproach.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Recovery/LoginPOMWithFactoryPageApproach.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="target/test-classes/DDD/LoginTest.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Recovery/LoginTest.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="target/test-classes/POM/LoginTest.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Recovery/LoginTest1.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="target/test-classes/DDD/LoginTest2.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Recovery/LoginTest2.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="target/MavenSelenium-1.0-SNAPSHOT.jar" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Recovery/MavenSelenium-1.0-SNAPSHOT.jar" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="target/classes/ActionsAndMouse/MouseActions_Hover.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Recovery/MouseActions_Hover.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="target/testdata/myFile.xlsx" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Recovery/myFile.xlsx" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="target/test-classes/DDD/Listeners/MyListener.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Recovery/MyListener.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="target/test-classes/DDD/Listeners/MyTest.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Recovery/MyTest.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="target/classes/Locators/NavigationalCommands.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Recovery/NavigationalCommands.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="target/test-classes/DDD/Listeners/NopCommerceTests.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Recovery/NopCommerceTests.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="target/classes/OrangeHRMLoginTest.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Recovery/OrangeHRMLoginTest.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="target/test-classes/DDD/invocationtionCount/ParameterizedTesting.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Recovery/ParameterizedTesting.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="target/classes/Daypicker/PickADay.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Recovery/PickADay.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="target/classes/DDD/ReadingFile.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Recovery/ReadingFile.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="target/classes/ActionsAndMouse/RightClickActionInGuru.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Recovery/RightClickActionInGuru.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="target/classes/BrokenLinks/ScreenShooting.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Recovery/ScreenShooting.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="target/classes/ChekboxesAndDropdowns/Select_lestDropdown.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Recovery/Select_lestDropdown.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="target/classes/ActionsAndMouse/SliderDemo.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Recovery/SliderDemo.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="target/classes/StaticTableDemo/StaticTable.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Recovery/StaticTable.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="target/testdata/Student_Info.xlsx" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Recovery/Student_Info.xlsx" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="target/classes/StaticTableDemo/Table.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Recovery/Table.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="target/classes/ActionsAndMouse/TabsAndWindows.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Recovery/TabsAndWindows.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="target/classes/ChekboxesAndDropdowns/UniqueSelect.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Recovery/UniqueSelect.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="target/classes/DDD/WritingFile.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Recovery/WritingFile.class" />
+  </binary>
+</changelist>
